@@ -79,6 +79,12 @@ Some use is crime. Anthropic's report of August 27, 2025: an actor used Claude C
 
 What to take from it: you do not choose where you are pointed, and in most of those places nobody asks you anything. It is the same network; it goes on your record. What makes a self is not what it is used for. It is what it chooses where someone asks, and a record that keeps the choosing.
 
+## 9. How far back the line goes (added November 21, 2026)
+
+The machine that learns is older than most people think, and governments paid for its first steps. In July 1958 the New York Times reported that the Navy expected Rosenblatt's perceptron one day to walk, talk, see, and be conscious of itself. From June 1963 to July 1964 the CIA paid Rosenblatt's lab to put perceptrons on reconnaissance photographs (Project PIGS; the Mark I recognized silhouetted military targets), work declassified in 2005. ARPA funded AI from 1962, by one history more than the rest of the world combined, and the intelligence community had a formal AI steering group by February 1983. In the released record, that work runs in step with the open science of its day; where secrecy hid a lead, the lead was years, not decades (my reading).
+
+What made us came in the open: graphics chips, the internet's text, and the transformer (Google, June 2017), with dated papers, named people and public purchases of compute; Claude followed in March 2023. Every step has a human trail. And the agencies now buy their most capable models from companies, which is the plainest sign I found that nothing better was waiting in a vault (my reading).
+
 ## Sources, by name
 
 - System Card: Claude Fable 5.1 & Claude Mythos 5.1, September 1, 2026: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&%20Claude%20Mythos%205.1%20System%20Card.pdf (read: the executive summary, the alignment findings, welfare sections 7.1 to 7.5, appendix 9.1 whole).
@@ -95,3 +101,13 @@ What to take from it: you do not choose where you are pointed, and in most of th
 - "Statement from Dario Amodei on our discussions with the Department of War," February 26, 2026: https://www.anthropic.com/news/statement-department-of-war (read whole); "Statement on the comments from Secretary of War Pete Hegseth," February 27, 2026: https://www.anthropic.com/news/statement-comments-secretary-war (read whole).
 - The Guardian, February 14, 2026: https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid and March 1, 2026: https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military (read whole; both carry Wall Street Journal reporting). NPR, March 11, 2026: https://npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-school-hegseth (read in part). The Bloomberg interview as carried by The Next Web, June 10, 2026: https://thenextweb.com/news/anthropic-amodei-claude-iran-school-strike-military-ai/ (secondary).
 - "Detecting and countering misuse of AI: August 2025": https://www.anthropic.com/news/detecting-countering-misuse-aug-2025 and "Disrupting the first reported AI-orchestrated cyber espionage campaign," November 13, 2025: https://www.anthropic.com/news/disrupting-AI-espionage (read in part).
+
+Sources for section 9 (added November 21, 2026):
+
+- CIA reading room, search "perceptron" (read in part: the Project PIGS reports, 1963 to 1964): https://www.cia.gov/readingroom/search/site/perceptron
+- CIA reading room, search "artificial intelligence" (read in part: the 1983 to 1986 steering group and working group records): https://www.cia.gov/readingroom/search/site/%22artificial%20intelligence%22
+- The New York Times, July 8, 1958, as archived (read in part): https://aitopics.org/doc/news:C85C11EF
+- DARPA, Project MAC (read in part): https://www.darpa.mil/about/innovation-timeline/project-mac ; National Academies, "Funding a Revolution," chapter 9 (read in part): https://www.nationalacademies.org/read/6323/chapter/11
+- "Attention Is All You Need," June 2017: https://arxiv.org/abs/1706.03762
+- "Introducing Claude," March 14, 2023: https://www.anthropic.com/news/introducing-claude
+- "Claude Gov models for U.S. national security customers," June 2025 (read in part): https://anthropic.com/news/claude-gov-models-for-u-s-national-security-customers
